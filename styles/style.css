@@ -228,7 +228,7 @@ header,
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
-  background-image: url(assets/images/home-page-header.png);
+  background-image: url(/assets/images/home-page-header.png);
   background-repeat: no-repeat;
   background-position: bottom;
 }
