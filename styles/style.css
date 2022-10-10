@@ -3,22 +3,22 @@
 @font-face {
   font-family: "nunito-sans";
   font-weight: 300;
-  src: url(/assets/fonts/Nunito-Sans-300.ttf);
+  src: url(assets/fonts/Nunito-Sans-300.ttf);
 }
 @font-face {
   font-family: "nunito-sans";
   font-weight: normal;
-  src: url(/assets/fonts/Nunito-Sans-Regular.ttf);
+  src: url(assets/fonts/Nunito-Sans-Regular.ttf);
 }
 @font-face {
   font-family: "nunito-sans";
   font-weight: 700;
-  src: url(/assets/fonts/Nunito-Sans-700.ttf);
+  src: url(assets/fonts/Nunito-Sans-700.ttf);
 }
 @font-face {
   font-family: "nunito-sans";
   font-weight: 900;
-  src: url(/assets/fonts/Nunito-Sans-900.ttf);
+  src: url(assets/fonts/Nunito-Sans-900.ttf);
 }
 :root {
   --red-color: rgb(180, 0, 0);
@@ -228,7 +228,7 @@ header,
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
-  background-image: url(/assets/images/home-page-header.png);
+  background-image: url(../assets/images/home-page-header.png);
   background-repeat: no-repeat;
   background-position: bottom;
 }
